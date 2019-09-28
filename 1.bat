@@ -1,0 +1,2 @@
+python ele.py
+pause
